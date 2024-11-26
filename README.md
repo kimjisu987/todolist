@@ -1,3 +1,5 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Todo%20List&fontSize=90" />    
+
 # ✨ 프로젝트 주제
 투두리스트 개인 작업
 <br/><br/>
@@ -14,7 +16,7 @@
 `VS Code` `GitHub` `Illustrator`
 <br/><br/>
 # ⌨ 기술스택
-`React` `CSS3` `JavaScript ES6` `React-Icons`
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white"/>
 <br/><br/>
 # 📝 리뷰
  해당 프로젝트는 학원 수업의 일환으로 리액트를 사용하여 구현한 투두 리스트 애플리케이션입니다. 이전에 자바스크립트, PHP, 제이쿼리를 활용하여 개발한 기존 시스템을 **리액트 문법으로 재구성**하였으며, 이를 통해 컴포넌트를 개별적으로 관리하는 방식으로 전환했습니다.
