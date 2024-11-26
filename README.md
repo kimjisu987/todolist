@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Todo%20List&fontSize=90" />    
+<img src="https://capsule-render.vercel.app/api?type=waving&color=4675C0&height=200&section=header&text=Todo%20List&fontSize=70" />
 
 # ✨ 프로젝트 주제
 투두리스트 개인 작업
